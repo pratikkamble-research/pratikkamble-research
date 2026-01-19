@@ -1,16 +1,18 @@
-## Hi there 👋
+# 🛡️ Pratik Kamble
 
-<!--
-**pratikkamble-research/pratikkamble-research** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**PhD Researcher**
 
-Here are some ideas to get you started:
+[![Website](https://img.shields.io/badge/Website-pratikkamble.com-blue?style=flat&logo=google-chrome)](https://pratikkamble.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=flat&logo=linkedin)]([https://www.linkedin.com/in/realpratikk](https://www.linkedin.com/in/pratikkamble-research))
+[![Scholar](https://img.shields.io/badge/Google_Scholar-Citations-4285F4?style=flat&logo=google-scholar)](https://scholar.google.com/citations?user=KwBsXXcAAAAJ&hl=en)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ⚡ About Me
+I am a **Security Researcher** based in **Binghamton, NY**. 
+
+---
+
+### 📫 Get in Touch
+* **Email:** [mail@pratikkamble.com](mailto:mail@pratikkamble.com)
+* **Keybase:** [keybase.io/pratikkamble](https://keybase.io/pratikkamble)
