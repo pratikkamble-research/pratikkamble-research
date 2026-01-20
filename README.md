@@ -9,7 +9,7 @@
 ---
 
 ### ⚡ About Me
-I am a **Security Researcher** based in **Binghamton, NY**. 
+I am a security researcher and problem-solver dedicated to understanding the inner workings of software to build more secure systems. Current Focus is on WebAssembly (Wasm) Security, Binary & Source Code Analysis, Fuzzing. I combine a strong academic background with a passion for innovation, aiming to create unique solutions that address the complexities of modern software. I am currently open to discussing new projects and collaborations in the security space.
 
 ---
 
