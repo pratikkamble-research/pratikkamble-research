@@ -1,6 +1,6 @@
 # 🛡️ Pratik M. Kamble
 
-**PhD Researcher**
+**Researcher**
 
 [![Website](https://img.shields.io/badge/Website-pratikkamble.com-blue?style=flat&logo=google-chrome)](https://pratikkamble.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=flat&logo=linkedin)]([https://www.linkedin.com/in/realpratikk](https://www.linkedin.com/in/pratikkamble-research))
