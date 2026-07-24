@@ -2,7 +2,7 @@
 
 **Researcher**
 
-[![Website](https://img.shields.io/badge/Website-pratikkamble.com-blue?style=flat&logo=google-chrome)](https://pratikkamble.com)
+[![Website](https://img.shields.io/badge/Website-pratikkamble.com-blue?style=flat&logo=google-chrome)](https://pratikkamble.com?utm_source=github)
 [![Scholar](https://img.shields.io/badge/Google_Scholar-Citations-4285F4?style=flat&logo=google-scholar)](https://scholar.google.com/citations?user=KwBsXXcAAAAJ&hl=en)
 
 ---
