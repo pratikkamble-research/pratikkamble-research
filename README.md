@@ -8,7 +8,7 @@
 ---
 
 ### ⚡ About Me
-I am a security researcher dedicated to understand the inner workings of software to build more secure systems. My current focus is on WebAssembly (Wasm) Security, Binary & Source Code Analysis and Fuzzing. I combine a strong academic background with a passion for innovation, aiming to create unique solutions. I am currently open to discussing new projects and collaborations in the security space.
+I am a security researcher dedicated to understand the inner workings of software to build more secure systems. I combine a strong academic background with a passion for innovation, aiming to create unique solutions. I am currently open to discussing new projects and collaborations in the security space.
 
 ---
 
