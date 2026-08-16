@@ -1,4 +1,4 @@
-# 🛡️ Pratik M. Kamble
+# 🛡️ Pratik Kamble
 
 **Researcher**
 
