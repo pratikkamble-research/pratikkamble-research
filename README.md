@@ -3,7 +3,7 @@
 **Researcher**
 
 [![Website](https://img.shields.io/badge/Website-pratikkamble.com-blue?style=flat&logo=google-chrome)](https://pratikkamble.com)
-[![Scholar](https://img.shields.io/badge/Google_Scholar-Citations-4285F4?style=flat&logo=google-scholar)](https://scholar.google.com/citations?user=KwBsXXcAAAAJ&hl=en)
+[![Scholar](https://img.shields.io/badge/Google_Scholar-Citations-4285F4?style=flat&logo=google-scholar)](https://scholar.google.com/citations?user=inzHTX8AAAAJ)
 
 ---
 
